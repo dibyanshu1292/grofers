@@ -1,0 +1,14 @@
+# *.sqlite3
+*.pyc
+*.sqlite3
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+*.mp4
+Pexels_Videos_1777362.mp4
+.env
+*.wav
+nohup.out
+django
+
